@@ -10,3 +10,5 @@ just another text editor
 `;
 
 export { header };
+
+console.log('header:', header);

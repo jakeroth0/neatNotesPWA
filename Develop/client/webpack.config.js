@@ -15,6 +15,7 @@ module.exports = () => {
       install: './src/js/install.js'
     },
     devServer: {
+      open: true,
       hot: 'only',
     },
     // output for our bundles
