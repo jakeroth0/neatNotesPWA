@@ -38,7 +38,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"header\": () => (/* binding */ header)\n/* harmony export */ });\nvar header = \"\\n/*\\n       _____  ____________\\n      / /   |/_  __/ ____/\\n __  / / /| | / / / __/   \\n/ /_/ / ___ |/ / / /___   \\n ____/_/  |_/_/ /_____/   \\njust another text editor\\n*/                          \\n\";\n\nconsole.log('header:', header);\n\n//# sourceURL=webpack://neatNotes/./src/js/header.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"header\": () => (/* binding */ header)\n/* harmony export */ });\nvar header = \"\\n/*\\n#                t                t              \\n#                t                t              \\n#  nnn  eee  aa ttt     nnn  ooo ttt eee  ss     \\n#  n  n e e a a  t      n  n o o  t  e e  s      \\n#  n  n ee  aaa  tt     n  n ooo  tt ee  ss      \\n#                                                \\n#                                                        \\nso neat!\\n*/                          \\n\";\n\nconsole.log('header:', header);\n\n//# sourceURL=webpack://neatNotes/./src/js/header.js?");
 
 /***/ }),
 
