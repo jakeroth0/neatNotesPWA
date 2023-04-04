@@ -13,6 +13,7 @@
   - [Contributing](#Contributing)
   - [Tests](#Tests)
   - [Questions](#Questions)
+  - [Code Source](#Code-Source)
 
   ![Thumbnail](images/neatNotesThumbnail.png)
 
@@ -47,3 +48,6 @@
 
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at jakeroth0@gmail.com. You can find more of my work on GitHub at [jakeroth0](https://github.com/jakeroth0).
+
+  ## Code-Source
+  Stack Overflow, class asignments, and ChatGPT were used when building this project.
